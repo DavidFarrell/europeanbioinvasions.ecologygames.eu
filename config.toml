@@ -1,4 +1,4 @@
-baseURL = 'https://paidia.design/'
+baseURL = 'https://europeanbioinvasions.ecologygames.eu/'
 languageCode = 'en-gb'
 title = 'European BioInvasions'
 theme = 'hugo-scroll'
