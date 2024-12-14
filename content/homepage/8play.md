@@ -21,10 +21,9 @@ header_menu: true
 
 ![Print and Play](images/map.png)
 
+You can read the rules for **European BioInvasions** [here](https://drive.google.com/file/d/162XTGV2po0GlK91c-JaDNOhhR35T520b/view?usp=sharing).
 
-You can download all the materials needed to print and play European BioInvasions [here](https://drive.google.com/file/d/1-oQcKtX3N1mbaKjmIIQhNDENguV8Dkb6/view?usp=sharing).. 
-
-The rulebook is also avaialble [here](https://drive.google.com/file/d/14Nng7MsOQp2H0pkIXKGODv16xZxWK8lO/view?usp=sharing).
+All the materials needed to print and play European BioInvasions can be downloaded [here](https://drive.google.com/file/d/1V6fTzc5LJl5F5foOrXwRGTq3zj2FSlL9/view?usp=sharing).
 
 If you have any feedback or questions about the rules we'd love to hear that feedback.  
 

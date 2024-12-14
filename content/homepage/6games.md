@@ -24,6 +24,8 @@ The game is ‘coopetitive’ in nature, combining elements of collaboration and
 
 The game is run by one or two Game Masters (GMs) who guide the players through one out of a set of scenarios of plausible future circumstances in Europe (chosen by the GMs) with a focus on a particular invasive species. Each player assumes the role of a stakeholder, and jointly the players will generate new, and even innovative, strategies to manage the impact the species can cause.
 
+European BioInvasions was a finalist in the International Educational Games Competition at the European Conference on Games Based Learning 2022 in Lisbon, Portugal.
+
 ## Key features
 * for students, scientists and real life stakeholders
 * 60-120 mins
@@ -40,5 +42,5 @@ The game is run by one or two Game Masters (GMs) who guide the players through o
 
 Every round a new event card is revealed as time passes and the invasive species proress.  These event cards put pressure on players to adapt and work together.  
 
-European BioInvasions was a finalist in the International Educational Games Competition at the European Conference on Games Based Learning 2022 in Lisbon, Portugal.
+
 
