@@ -42,5 +42,7 @@ European BioInvasions was a finalist in the International Educational Games Comp
 
 Every round a new event card is revealed as time passes and the invasive species proress.  These event cards put pressure on players to adapt and work together.  
 
+Players come up with proposals of management actions on how to manage the invasive species and the impact it has. 
 
+Proposals are voted on, and successful management actions are implemented with the GM determining the effect on species spread and impact.
 
