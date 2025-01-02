@@ -32,7 +32,7 @@ European BioInvasions was a finalist in the International Educational Games Comp
 * three species (Marbled Crayfish, North American Raccoon, Common Ragweed)
 * four potential future scenarios for each species
 * map of Europe tracking the species spread
-* six/seven unique player roles per species, each with their own beliefs and priorities
+* 6-7 unique player roles per species, each with their own beliefs and priorities
 * bonus **Asian Hornet Remix** focussing on the region of Catalonia and a single future scenario.
 
 
@@ -40,7 +40,7 @@ European BioInvasions was a finalist in the International Educational Games Comp
 
 ![image of events](images/events.png)
 
-Every round a new event card is revealed as time passes and the invasive species proress.  These event cards put pressure on players to adapt and work together.  
+Every round a new event card is revealed as time passes and the invasive species grow and spread.  These event cards put pressure on players to adapt and work together.  
 
 Players come up with proposals of management actions on how to manage the invasive species and the impact it has. 
 

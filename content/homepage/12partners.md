@@ -42,7 +42,11 @@ This game was a collaboration between Paidia and an amazing group of Scientist C
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Nuria Roura-Pascual](https://www.nrourapascual.com/), Universitat de Girona, Catalonia, Spain
 
+{{<icon class="fa-solid fa-microscope">}}&nbsp;[Franz Essl](https://ufind.univie.ac.at/en/person.html?id=18824), University of Vienna, Austria
+
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Leandra Heinrich](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_jeschke/index.html), Freie Universität Berlin, Germany
+
+{{<icon class="fa-solid fa-microscope">}}&nbsp;Núria Puig Segura, Universitat de Girona, Catalonia, Spain
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Jonathan Jeschke](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_jeschke/mitarbeiter/jeschke/index.html), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
 
