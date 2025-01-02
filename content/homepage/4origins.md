@@ -1,5 +1,5 @@
 ---
-title: 'Origins'
+title: 'Purpose'
 
 # The "header_menu_title" value will be used as text for header buttons.
 # The "title" value will be used if value for "header_menu_title" is not provided.
@@ -20,7 +20,7 @@ header_menu: true
 ---
 
 
-**European BioInvasions** is the first of two games developed as part of the EU-funded research projects InvasiBES and AlienScenarios. These projects explored potential futures in Europe and how they might affect our ability to manage invasive alien species, as well as their impacts on native biodiversity. The projects aimed to understand management strategies for IAS across a range of species type (plants, mammals, insects and marine).
+**European BioInvasions** is the first of two games developed as part of the EU-funded research projects [*InvasiBES*](https://doi.org/10.3897/neobiota.50.35466) and [*AlienScenarios*](https://alien-scenarios.org). These projects explored potential futures in Europe and how they might affect our ability to manage invasive alien species, as well as their impacts on native biodiversity. The projects aimed to understand management strategies for IAS across a range of species type (plants, mammals, insects and marine).
 
 
 A Role-Playing Game aimed at expert and real life stakeholders that have to deal with invasive species, **European BioInvasions** covers multiple species and how we might manage them in different potential European futures. 
