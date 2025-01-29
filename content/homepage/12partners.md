@@ -30,7 +30,7 @@ header_menu: true
 This game was a collaboration between Paidia and an amazing group of Scientist Contributors including:
 
 
-{{<icon class="fa-solid fa-microscope">}}&nbsp;[Wolf-Christian Saul](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_jeschke/mitarbeiter/saul/index.html), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
+{{<icon class="fa-solid fa-microscope">}}&nbsp;[Wolf-Christian Saul](mailto:wcsaul@gmx.net), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Sophia Kimmig](https://sophia-kimmig.de/), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
 
@@ -40,11 +40,11 @@ This game was a collaboration between Paidia and an amazing group of Scientist C
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Cristian Perez-Granados](https://cvnet.cpd.ua.es/curriculum-breve/es/perez-granados-cristian/38586), Universidad de Alicante, Spain
 
-{{<icon class="fa-solid fa-microscope">}}&nbsp;[Nuria Roura-Pascual](https://www.nrourapascual.com/), Universitat de Girona, Catalonia, Spain
+{{<icon class="fa-solid fa-microscope">}}&nbsp;[Núria Roura-Pascual](https://www.nrourapascual.com/), Universitat de Girona, Catalonia, Spain
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Franz Essl](https://ufind.univie.ac.at/en/person.html?id=18824), University of Vienna, Austria
 
-{{<icon class="fa-solid fa-microscope">}}&nbsp;[Leandra Heinrich](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_jeschke/index.html), Freie Universität Berlin, Germany
+{{<icon class="fa-solid fa-microscope">}}&nbsp;Leandra Heinrich, Freie Universität Berlin, Germany
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;Núria Puig Segura, Universitat de Girona, Catalonia, Spain
 
